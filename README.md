@@ -1,16 +1,34 @@
-## Hi there 👋
+# About-me
+# Hi there, I'm Arjun! 👋
 
-<!--
-**arjunji123/arjunji123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+I'm a passionate Full Stack Developer specializing in the MERN stack (MongoDB, Express.js, React.js, Node.js). I love crafting dynamic and user-friendly web applications, solving complex problems, and continuously learning new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+
+- Frontend: HTML, CSS, JavaScript, React.js, Redux
+- Backend: Node.js, Express.js
+- Database: MongoDB, SQL
+- DevOps: Docker, CI/CD
+- Tools: Git, Webpack, Babel, VS Code
+- Extras: Passport.js for authentication, Mapbox for interactive maps
+
+## 🌱 What I'm Learning
+
+- Cloud Computing: Exploring cloud services and microservices architecture.
+- Machine Learning: Integrating machine learning into web applications.
+- Open Source: Contributing to and learning from the open-source community.
+
+## 📫 How to Reach Me
+
+- LinkedIn: (https://www.linkedin.com/in/arjun-singh-naruka/)
+- Email: singhnarukaarjun@gmail.com
+
+## 💬 Let's Connect!
+
+I'm always open to collaborating on interesting projects, discussing new ideas, or just having a chat about tech. Feel free to reach out!
+
+## ⚡ Fun Fact
+
+I love exploring new tech trends and finding ways to implement them in my projects. When I'm not coding, you might find me reading about the latest in AI or experimenting with new recipes in the kitchen.
